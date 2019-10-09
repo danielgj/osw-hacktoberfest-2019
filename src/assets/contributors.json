@@ -51,5 +51,6 @@
   { "name": "Sachin Kamath", "color": "#ff0000", "username": "s-a-c-h-i-n", "avatarUrl": "https://avatars2.githubusercontent.com/u/30471507?v=4", "location": "Airoli,Navi Mumbai" },
   { "name": "Ashwin Godbole", "color": "#A8A8A8", "username": "ashvin-godbole", "avatarUrl": "https://avatars3.githubusercontent.com/u/33014264?s=460&v=4", "location": "India" },
   { "name": "Brandon Morse", "color": "#dddddd", "username": "morsecodemedia", "avatarUrl": "https://avatars3.githubusercontent.com/u/5315124?s=460&v=4", "location": "New Jersey, USA" },
-  { "name": "Juan Torres", "color": "#ceeb59", "username": "zaldih", "avatarUrl": "https://avatars3.githubusercontent.com/u/16844185?v=4", "location": "Malaga, Spain" }
+  { "name": "Juan Torres", "color": "#ceeb59", "username": "zaldih", "avatarUrl": "https://avatars3.githubusercontent.com/u/16844185?v=4", "location": "Malaga, Spain" },
+  { "name": "Daniel García", "color": "#c8c8c8", "username": "danielgj", "avatarUrl": "https://avatars3.githubusercontent.com/u/9421105?s=400&u=3093647a716c3a1a81df2e9c3b3235def697988b&v=4", "location": "Madrid, Spain" }
 ]
